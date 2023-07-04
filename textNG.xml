@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sumoTask">
+    <test name="registrationForm">
+        <classes>
+            <class name = "RegistrationFormTest"/>
+        </classes>
+    </test>
+    <test name="userFlowTest">
+        <classes>
+            <class name = "RegistrationFormTest"/>
+        </classes>
+    </test>
+</suite>
